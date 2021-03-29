@@ -63,11 +63,19 @@ DC/EP汇款兑出（非实时）：
 
 
 
+加密机：
+	洛阳：科友
+	大连：科友
 
 
+agentserialno		平台业务流水号			这个是平台的关联流水	
+traceid				业务跟踪号				全局流水号
+busichannelserno	业务渠道流水号			第三方流水
+channelserno		发起渠道流水号		
 
 
-
+busichannelserno	业务渠道流水号		
+channelserno		发起渠道流水号
 
 
 
