@@ -1,0 +1,5 @@
+R12-1xxxxx  通讯异常类
+R12-2xxxxx	拆组包错误类
+R12-3xxxxx	数据库错误类
+R12-4xxxxx  必输检查类
+R12-7xxxxx  业务检查类
