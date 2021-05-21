@@ -11,3 +11,7 @@ cache 20
 alter sequence sq_platseqno cycle;
 -- 查询序列号
 select * from user_sequences;
+-- 获取最大值
+select greatest(1, '2', -0.01) from dual;
+-- 格式化
+select trim(to_char(greatest(1, '2', -0.01), '99999999999999990.00')) from dual;
